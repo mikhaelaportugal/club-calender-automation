@@ -1,3 +1,4 @@
+# ACM Club of SFSU
 # Google Form → Google Calendar Automation
 
 This Google Apps Script automatically adds events to a Google Calendar
