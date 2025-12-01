@@ -11,5 +11,3 @@ when a member submits a Google Form.
 
 ## Files
 - Code.gs — main automation logic
-- TriggerSetup.gs — installs onFormSubmit trigger
-- appsscript.json — Apps Script project settings
